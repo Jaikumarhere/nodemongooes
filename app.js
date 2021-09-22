@@ -1,6 +1,6 @@
- let a = 50;
+ let a = 416;
 
- let b = 100;
+ let b = 841;
 
  let sum = a+b;
 
